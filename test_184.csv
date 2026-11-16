@@ -1,0 +1,185 @@
+dataset,age,sex,chest pain type,resting bp s,cholesterol,fasting blood sugar,resting ecg,max heart rate,exercise angina,oldpeak,ST slope,target,source,hospital,record_id,copies_in_1190_row_file
+test,48,0,4,138,214,0,0,108,1,1.5,2,1,Hungary,Hungary,3,1
+test,54,1,3,150,195,0,0,122,0,0.0,1,0,Hungary,Hungary,4,1
+test,39,1,3,120,339,0,0,170,0,0.0,1,0,Hungary,Hungary,5,1
+test,37,0,3,130,211,0,0,142,0,0.0,1,0,Hungary,Hungary,10,1
+test,49,1,4,140,234,0,0,140,1,1.0,2,1,Hungary,Hungary,13,1
+test,43,0,2,120,201,0,0,165,0,0.0,1,0,Hungary,Hungary,17,1
+test,44,1,2,120,184,0,0,142,0,1.0,2,0,Hungary,Hungary,21,1
+test,41,0,2,110,250,0,1,142,0,0.0,1,0,Hungary,Hungary,37,1
+test,48,0,4,150,227,0,0,130,1,1.0,2,0,Hungary,Hungary,39,1
+test,35,1,2,150,264,0,0,168,0,0.0,1,0,Hungary,Hungary,42,1
+test,37,1,4,120,223,0,0,168,0,0.0,1,0,Hungary,Hungary,46,1
+test,51,0,2,160,194,0,0,170,0,0.0,1,0,Hungary,Hungary,55,1
+test,37,0,2,120,260,0,0,130,0,0.0,1,0,Hungary,Hungary,65,1
+test,32,1,4,118,529,0,0,130,0,0.0,2,1,Hungary,Hungary,76,1
+test,35,0,4,140,167,0,0,150,0,0.0,1,0,Hungary,Hungary,77,1
+test,39,1,4,130,307,0,0,140,0,0.0,1,0,Hungary,Hungary,91,1
+test,41,1,2,125,269,0,0,144,0,0.0,1,0,Hungary,Hungary,99,1
+test,40,0,4,150,392,0,0,130,0,2.0,2,1,Hungary,Hungary,102,1
+test,59,0,2,130,188,0,0,124,0,1.0,2,0,Hungary,Hungary,110,1
+test,34,1,1,140,156,0,0,180,0,0.0,2,1,Hungary,Hungary,119,1
+test,52,0,3,125,272,0,0,139,0,0.0,1,0,Hungary,Hungary,121,1
+test,58,0,2,180,393,0,0,110,1,1.0,2,1,Hungary,Hungary,123,1
+test,56,1,4,170,388,0,1,122,1,2.0,2,1,Hungary,Hungary,132,1
+test,56,1,4,150,230,0,1,124,1,1.5,2,1,Hungary,Hungary,133,1
+test,56,0,2,120,279,0,0,150,0,1.0,2,1,Hungary,Hungary,144,1
+test,56,1,4,155,342,1,0,150,1,3.0,2,1,Hungary,Hungary,155,1
+test,44,1,4,130,290,0,0,100,1,2.0,2,1,Hungary,Hungary,158,1
+test,54,1,2,160,195,0,1,130,0,1.0,1,0,Hungary,Hungary,159,1
+test,48,1,2,140,238,0,0,118,0,0.0,1,0,Hungary,Hungary,167,1
+test,53,1,2,140,320,0,0,162,0,0.0,1,0,Hungary,Hungary,172,1
+test,52,1,4,140,266,0,0,134,1,2.0,2,1,Hungary,Hungary,174,1
+test,37,1,3,130,194,0,0,150,0,0.0,1,0,Hungary,Hungary,178,1
+test,52,1,4,130,225,0,0,120,1,2.0,2,1,Hungary,Hungary,180,1
+test,54,0,2,160,312,0,0,130,0,0.0,1,0,Hungary,Hungary,184,1
+test,58,1,2,130,251,0,0,110,0,0.0,1,0,Hungary,Hungary,186,1
+test,46,1,4,180,280,0,1,120,0,0.0,1,0,Hungary,Hungary,190,1
+test,42,1,2,150,268,0,0,136,0,0.0,1,0,Hungary,Hungary,197,1
+test,46,1,3,120,230,0,0,150,0,0.0,1,0,Hungary,Hungary,201,1
+test,28,1,2,130,132,0,2,185,0,0.0,1,0,Hungary,Hungary,208,1
+test,48,1,4,106,263,1,0,110,0,0.0,2,1,Hungary,Hungary,210,1
+test,56,1,3,130,276,0,0,128,1,1.0,1,0,Hungary,Hungary,212,1
+test,47,1,4,150,226,0,0,98,1,1.5,2,1,Hungary,Hungary,214,1
+test,55,1,2,120,256,1,0,137,0,0.0,1,0,Hungary,Hungary,224,1
+test,40,1,3,130,281,0,0,167,0,0.0,1,0,Hungary,Hungary,231,1
+test,41,1,4,112,250,0,0,142,0,0.0,1,0,Hungary,Hungary,233,1
+test,54,0,2,140,309,0,1,140,0,0.0,1,0,Hungary,Hungary,234,1
+test,48,1,4,160,355,0,0,99,1,2.0,2,1,Hungary,Hungary,238,1
+test,45,1,4,130,219,0,1,130,1,1.0,2,1,Hungary,Hungary,248,1
+test,49,1,4,130,341,0,0,120,1,1.0,2,1,Hungary,Hungary,249,1
+test,48,1,4,120,260,0,0,115,0,2.0,2,1,Hungary,Hungary,251,1
+test,55,1,4,145,248,0,0,96,1,2.0,2,1,Hungary,Hungary,254,1
+test,53,0,3,120,274,0,0,130,0,0.0,1,0,Hungary,Hungary,255,1
+test,55,0,2,130,394,0,2,150,0,0.0,1,0,Hungary,Hungary,256,1
+test,55,0,2,122,320,0,0,155,0,0.0,1,0,Hungary,Hungary,259,1
+test,59,1,4,130,126,0,0,125,0,0.0,2,1,Hungary,Hungary,263,1
+test,54,1,2,160,305,0,0,175,0,0.0,1,0,Hungary,Hungary,265,1
+test,45,1,4,120,225,0,0,140,0,0.0,1,0,Hungary,Hungary,270,1
+test,54,0,2,130,253,0,1,155,0,0.0,1,0,Hungary,Hungary,279,1
+test,51,0,3,130,220,0,0,160,1,2.0,1,0,Hungary,Hungary,282,1
+test,53,1,2,120,181,0,0,132,0,0.0,1,0,Hungary,Hungary,287,1
+test,48,0,2,133,308,0,1,156,0,2.0,1,0,Hungary,Hungary,288,1
+test,65,1,4,115,0,0,0,93,1,0.0,2,1,Switzerland,Switzerland,293,1
+test,32,1,1,95,0,1,0,127,0,0.7,1,1,Switzerland,Switzerland,294,1
+test,47,1,4,110,0,1,1,149,0,2.1,1,1,Switzerland,Switzerland,299,1
+test,60,1,4,160,0,1,0,149,0,0.4,2,1,Switzerland,Switzerland,300,1
+test,55,1,2,140,0,0,1,150,0,0.2,1,0,Switzerland,Switzerland,301,1
+test,74,1,2,145,0,1,1,123,0,1.3,1,1,Switzerland,Switzerland,315,1
+test,59,1,4,125,0,1,0,119,1,0.9,1,1,Switzerland,Switzerland,327,1
+test,72,1,3,160,0,0,2,114,0,1.6,2,0,Switzerland,Switzerland,336,1
+test,63,1,4,150,0,1,1,154,0,3.7,1,1,Switzerland,Switzerland,337,1
+test,61,1,4,110,0,1,0,113,0,1.4,2,1,Switzerland,Switzerland,342,1
+test,52,1,4,130,0,1,0,120,0,0.0,2,1,Switzerland,Switzerland,343,1
+test,51,1,4,120,0,1,0,104,0,0.0,2,1,Switzerland,Switzerland,344,1
+test,69,1,4,135,0,0,0,130,0,0.0,2,1,Switzerland,Switzerland,345,1
+test,48,1,4,115,0,1,0,128,0,0.0,2,1,Switzerland,Switzerland,347,1
+test,36,1,4,110,0,1,0,125,1,1.0,2,1,Switzerland,Switzerland,349,1
+test,68,1,4,135,0,0,1,120,1,0.0,1,1,Switzerland,Switzerland,367,1
+test,57,1,4,140,0,0,0,120,1,2.0,2,1,Switzerland,Switzerland,368,1
+test,63,1,4,150,0,0,0,86,1,2.0,2,1,Switzerland,Switzerland,369,1
+test,60,1,4,135,0,0,0,63,1,0.5,1,1,Switzerland,Switzerland,370,1
+test,61,1,4,125,0,0,0,105,1,0.0,3,1,Switzerland,Switzerland,374,1
+test,73,0,3,160,0,0,1,121,0,0.0,1,1,Switzerland,Switzerland,375,1
+test,47,1,3,155,0,0,0,118,1,1.0,2,1,Switzerland,Switzerland,376,1
+test,51,1,4,140,0,0,0,60,0,0.0,2,1,Switzerland,Switzerland,390,1
+test,61,1,4,130,0,0,2,115,0,0.0,2,1,Switzerland,Switzerland,392,1
+test,62,1,4,115,0,1,0,72,1,-0.5,2,1,Switzerland,Switzerland,407,1
+test,54,1,4,180,0,1,0,150,0,1.5,2,1,Switzerland,Switzerland,411,1
+test,54,1,4,130,0,1,0,110,1,3.0,2,1,Switzerland,Switzerland,414,1
+test,56,1,2,126,166,0,1,140,0,0.0,1,0,Long Beach VA,Long Beach VA,426,1
+test,59,1,4,140,0,0,1,117,1,1.0,2,1,Long Beach VA,Long Beach VA,427,1
+test,60,1,4,152,0,0,1,118,1,0.0,1,0,Long Beach VA,Long Beach VA,435,1
+test,63,1,3,130,0,0,1,111,1,0.0,2,1,Long Beach VA,Long Beach VA,438,1
+test,55,1,3,136,228,0,1,124,1,1.6,2,1,Long Beach VA,Long Beach VA,445,1
+test,54,1,4,130,0,0,1,117,1,1.4,2,1,Long Beach VA,Long Beach VA,446,1
+test,63,1,4,160,230,1,0,105,1,1.0,2,1,Long Beach VA,Long Beach VA,448,1
+test,55,1,3,0,0,0,0,155,0,1.5,2,1,Long Beach VA,Long Beach VA,449,1
+test,52,1,3,122,0,0,0,110,1,2.0,3,1,Long Beach VA,Long Beach VA,450,1
+test,40,1,4,125,0,1,0,165,0,0.0,2,1,Long Beach VA,Long Beach VA,457,1
+test,51,1,4,128,0,0,0,107,0,0.0,1,0,Long Beach VA,Long Beach VA,463,1
+test,55,1,3,120,0,0,1,125,1,2.5,2,1,Long Beach VA,Long Beach VA,466,1
+test,63,0,2,132,0,0,0,130,0,0.1,1,0,Long Beach VA,Long Beach VA,467,1
+test,56,1,2,124,224,1,0,161,0,2.0,2,0,Long Beach VA,Long Beach VA,469,1
+test,53,1,4,154,0,1,1,140,1,1.5,2,1,Long Beach VA,Long Beach VA,472,1
+test,57,1,4,130,311,1,1,148,1,2.0,2,1,Long Beach VA,Long Beach VA,478,1
+test,58,1,2,126,0,1,0,110,1,2.0,2,1,Long Beach VA,Long Beach VA,480,1
+test,67,1,1,142,270,1,0,125,0,2.5,1,1,Long Beach VA,Long Beach VA,482,1
+test,58,1,4,120,0,0,2,106,1,1.5,3,1,Long Beach VA,Long Beach VA,483,1
+test,55,1,2,110,214,1,1,180,0,0.4,1,0,Long Beach VA,Long Beach VA,486,1
+test,64,0,4,142,276,0,0,140,1,1.0,2,1,Long Beach VA,Long Beach VA,495,1
+test,61,1,4,146,241,0,0,148,1,3.0,3,1,Long Beach VA,Long Beach VA,497,1
+test,67,1,4,120,0,1,0,150,0,1.5,3,1,Long Beach VA,Long Beach VA,508,1
+test,58,1,4,110,198,0,0,110,0,0.0,2,1,Long Beach VA,Long Beach VA,509,1
+test,60,1,4,136,195,0,0,126,0,0.3,1,0,Long Beach VA,Long Beach VA,510,1
+test,61,1,4,120,282,0,1,135,1,4.0,3,1,Long Beach VA,Long Beach VA,521,1
+test,55,1,4,150,160,0,1,150,0,0.0,1,0,Long Beach VA,Long Beach VA,524,1
+test,50,1,4,133,218,0,0,128,1,1.1,2,1,Long Beach VA,Long Beach VA,530,1
+test,64,1,4,143,306,1,1,115,1,1.8,2,1,Long Beach VA,Long Beach VA,531,1
+test,75,1,4,160,310,1,0,112,1,2.0,3,0,Long Beach VA,Long Beach VA,556,1
+test,64,1,4,134,273,0,0,102,1,4.0,3,1,Long Beach VA,Long Beach VA,559,1
+test,57,1,4,144,270,1,1,160,1,2.0,2,1,Long Beach VA,Long Beach VA,564,1
+test,69,1,4,142,210,1,1,112,1,1.5,2,1,Long Beach VA,Long Beach VA,574,1
+test,69,1,3,142,271,0,2,126,0,0.3,1,0,Long Beach VA,Long Beach VA,583,1
+test,53,1,4,124,243,0,0,122,1,2.0,2,1,Long Beach VA,Long Beach VA,586,1
+test,61,1,4,190,287,1,2,150,1,2.0,3,1,Long Beach VA,Long Beach VA,592,1
+test,58,1,4,160,256,1,2,113,1,1.0,1,1,Long Beach VA,Long Beach VA,594,1
+test,56,1,4,130,203,1,0,98,0,1.5,2,1,Long Beach VA,Long Beach VA,599,1
+test,46,1,4,134,310,0,0,126,0,0.0,2,1,Long Beach VA,Long Beach VA,609,1
+test,62,1,1,135,139,0,1,137,0,0.2,1,0,Long Beach VA,Long Beach VA,611,1
+test,64,1,4,128,263,0,0,105,1,0.2,2,0,Statlog,Cleveland,618,2
+test,65,1,4,120,177,0,0,140,0,0.4,1,0,Statlog,Cleveland,620,2
+test,56,1,3,130,256,1,2,142,1,0.6,2,1,Statlog,Cleveland,621,2
+test,59,1,4,110,239,0,2,142,1,1.2,2,1,Statlog,Cleveland,622,2
+test,44,1,3,140,235,0,2,180,0,0.0,1,0,Statlog,Cleveland,627,2
+test,57,0,4,128,303,0,2,159,0,0.0,1,0,Statlog,Cleveland,629,2
+test,71,0,4,112,149,0,0,125,0,1.6,2,0,Statlog,Cleveland,630,2
+test,46,1,4,140,311,0,0,120,1,1.8,2,1,Statlog,Cleveland,631,2
+test,53,1,4,140,203,1,2,155,1,3.1,3,1,Statlog,Cleveland,632,2
+test,61,1,4,140,207,0,2,138,1,1.9,1,1,Statlog,Cleveland,651,2
+test,62,0,4,124,209,0,0,163,0,0.0,1,0,Statlog,Cleveland,656,2
+test,41,0,2,105,198,0,0,168,0,0.0,1,0,Statlog,Cleveland,670,2
+test,61,1,4,138,166,0,2,125,1,3.6,2,1,Statlog,Cleveland,671,2
+test,59,0,4,174,249,0,0,143,1,0.0,2,1,Statlog,Cleveland,673,2
+test,58,0,2,136,319,1,2,152,0,0.0,1,1,Statlog,Cleveland,682,2
+test,70,1,2,156,245,0,2,143,0,0.0,1,0,Statlog,Cleveland,687,2
+test,76,0,3,140,197,0,1,116,0,1.1,2,0,Statlog,Cleveland,688,2
+test,67,0,4,106,223,0,0,142,0,0.3,1,0,Statlog,Cleveland,689,2
+test,42,0,3,120,209,0,0,173,0,0.0,2,0,Statlog,Cleveland,693,2
+test,56,1,2,120,236,0,0,178,0,0.8,1,0,Statlog,Cleveland,694,2
+test,54,1,4,110,206,0,2,108,1,0.0,2,1,Statlog,Cleveland,708,2
+test,63,1,4,130,254,0,2,147,0,1.4,2,1,Statlog,Cleveland,719,2
+test,49,0,2,134,271,0,0,162,0,0.0,2,0,Statlog,Cleveland,730,2
+test,46,1,4,120,249,0,2,144,0,0.8,1,1,Statlog,Cleveland,731,2
+test,52,0,3,136,196,0,2,169,0,0.1,2,0,Statlog,Cleveland,742,2
+test,42,1,4,140,226,0,0,178,0,0.0,1,0,Statlog,Cleveland,747,2
+test,64,1,4,120,246,0,2,96,1,2.2,3,1,Statlog,Cleveland,748,2
+test,46,0,3,142,177,0,2,160,1,1.4,3,0,Statlog,Cleveland,750,2
+test,56,1,4,125,249,1,2,144,1,1.2,2,1,Statlog,Cleveland,752,2
+test,52,1,4,112,230,0,0,160,0,0.0,1,1,Statlog,Cleveland,761,2
+test,51,0,3,130,256,0,2,149,0,0.5,1,0,Statlog,Cleveland,769,2
+test,45,1,2,128,308,0,2,170,0,0.0,1,0,Statlog,Cleveland,772,2
+test,45,0,4,138,236,0,2,152,1,0.2,2,0,Statlog,Cleveland,783,2
+test,68,0,3,120,211,0,2,115,0,1.5,2,0,Statlog,Cleveland,788,2
+test,56,0,4,134,409,0,2,150,1,1.9,2,1,Statlog,Cleveland,796,2
+test,42,0,4,102,265,0,2,122,0,0.6,2,0,Statlog,Cleveland,798,2
+test,58,0,4,100,248,0,2,122,0,1.0,2,0,Statlog,Cleveland,811,2
+test,52,1,1,152,298,1,0,178,0,1.2,2,0,Statlog,Cleveland,820,2
+test,60,0,3,102,318,0,0,160,0,0.0,1,0,Statlog,Cleveland,821,2
+test,58,1,4,128,216,0,2,131,1,2.2,2,1,Statlog,Cleveland,828,2
+test,44,1,2,120,220,0,0,170,0,0.0,1,0,Statlog,Cleveland,834,2
+test,62,1,3,130,231,0,0,146,0,1.8,2,0,Statlog,Cleveland,849,2
+test,62,0,4,160,164,0,2,145,0,6.2,3,1,Statlog,Cleveland,850,2
+test,43,1,4,120,177,0,2,120,1,2.5,2,1,Statlog,Cleveland,852,2
+test,65,1,4,110,248,0,2,158,0,0.6,1,1,Statlog,Cleveland,861,2
+test,60,1,3,140,185,0,2,155,0,3.0,2,1,Statlog,Cleveland,863,2
+test,60,1,4,145,282,0,2,142,1,2.8,2,1,Statlog,Cleveland,864,2
+test,51,1,3,110,175,0,0,123,0,0.6,1,0,Statlog,Cleveland,868,2
+test,60,1,4,130,206,0,2,132,1,2.4,2,1,Statlog,Cleveland,876,2
+test,58,1,2,120,284,0,2,160,0,1.8,2,1,Statlog,Cleveland,877,2
+test,52,1,4,128,204,1,0,156,1,1.0,2,1,Cleveland,Cleveland,888,1
+test,39,0,3,138,220,0,0,152,0,0.0,2,0,Cleveland,Cleveland,892,1
+test,55,0,4,128,205,0,1,130,1,2.0,2,1,Cleveland,Cleveland,897,1
+test,56,1,2,120,240,0,0,169,0,0.0,3,0,Cleveland,Cleveland,904,1
+test,68,1,4,144,193,1,0,141,0,3.4,2,1,Cleveland,Cleveland,914,1
+test,57,0,2,130,236,0,2,174,0,0.0,2,1,Cleveland,Cleveland,916,1

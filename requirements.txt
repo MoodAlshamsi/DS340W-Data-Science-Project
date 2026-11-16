@@ -1,0 +1,22 @@
+# Heart_Disease_Research_LSRO_MLHDPM.ipynb
+# Lower bounds = the Colab-like environment we test with (Python 3.12). The quick run in this delivery was executed
+# with: Python 3.13.18, numpy 2.5.3, pandas 3.0.5, scikit-learn 1.9.1, imbalanced-learn 0.14.2, xgboost 3.4.1,
+# lightgbm 4.7.0, catboost 1.2.10, optuna 5.0.0, shap 0.54.1, tensorflow 2.21.0.
+# In Google Colab most of these are preinstalled; the notebook installs whatever is missing.
+numpy>=2.0
+pandas>=2.2
+scipy>=1.13
+scikit-learn>=1.6
+imbalanced-learn>=0.13
+xgboost>=2.1
+lightgbm>=4.5
+catboost>=1.2
+optuna>=4.0
+shap>=0.46
+tensorflow>=2.17
+statsmodels>=0.14
+matplotlib>=3.8
+seaborn>=0.13
+tqdm>=4.66
+joblib>=1.4
+jupyter

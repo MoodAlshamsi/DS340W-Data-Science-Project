@@ -1,0 +1,93 @@
+dataset,age,sex,chest pain type,resting bp s,cholesterol,fasting blood sugar,resting ecg,max heart rate,exercise angina,oldpeak,ST slope,target,source,hospital,record_id,copies_in_1190_row_file
+validation,45,0,2,130,237,0,0,170,0,0.0,1,0,Hungary,Hungary,6,1
+validation,54,1,2,110,208,0,0,142,0,0.0,1,0,Hungary,Hungary,7,1
+validation,58,1,2,136,164,0,1,99,1,2.0,2,1,Hungary,Hungary,11,1
+validation,38,1,4,110,196,0,0,166,0,0.0,2,1,Hungary,Hungary,16,1
+validation,56,1,3,130,167,0,0,114,0,0.0,1,0,Hungary,Hungary,31,1
+validation,48,0,2,120,177,1,1,148,0,0.0,1,0,Hungary,Hungary,38,1
+validation,50,1,4,130,233,0,0,121,1,2.0,2,1,Hungary,Hungary,50,1
+validation,58,1,3,130,213,0,1,140,0,0.0,2,1,Hungary,Hungary,57,1
+validation,50,0,2,110,202,0,0,145,0,0.0,1,0,Hungary,Hungary,64,1
+validation,52,1,4,160,246,0,1,82,1,4.0,2,1,Hungary,Hungary,68,1
+validation,44,1,2,130,215,0,0,135,0,0.0,1,0,Hungary,Hungary,71,1
+validation,46,1,3,150,163,0,0,116,0,0.0,1,0,Hungary,Hungary,75,1
+validation,48,1,4,160,329,0,0,92,1,1.5,2,1,Hungary,Hungary,93,1
+validation,40,1,4,120,466,1,0,152,1,1.0,2,1,Hungary,Hungary,103,1
+validation,50,1,4,140,129,0,0,135,0,0.0,1,0,Hungary,Hungary,108,1
+validation,50,1,2,120,168,0,0,160,0,0.0,1,0,Hungary,Hungary,148,1
+validation,41,1,2,120,291,0,1,160,0,0.0,1,0,Hungary,Hungary,154,1
+validation,50,1,2,170,209,0,1,116,0,0.0,1,0,Hungary,Hungary,191,1
+validation,45,1,3,135,192,0,0,110,0,0.0,1,0,Hungary,Hungary,193,1
+validation,53,1,4,120,246,0,0,116,1,0.0,2,1,Hungary,Hungary,198,1
+validation,31,0,2,100,219,0,1,150,0,0.0,1,0,Hungary,Hungary,203,1
+validation,56,0,3,130,219,0,1,164,0,0.0,1,0,Hungary,Hungary,213,1
+validation,55,1,2,140,196,0,0,150,0,0.0,1,0,Hungary,Hungary,218,1
+validation,55,1,2,145,326,0,0,155,0,0.0,1,0,Hungary,Hungary,240,1
+validation,52,1,4,130,298,0,0,110,1,1.0,2,1,Hungary,Hungary,266,1
+validation,54,1,4,130,242,0,0,91,1,1.0,2,1,Hungary,Hungary,268,1
+validation,55,1,3,120,220,0,2,134,0,0.0,1,0,Hungary,Hungary,273,1
+validation,60,1,3,120,246,0,2,135,0,0.0,1,0,Hungary,Hungary,280,1
+validation,36,1,2,120,166,0,0,180,0,0.0,1,0,Hungary,Hungary,289,1
+validation,60,1,3,115,0,1,0,143,0,2.4,1,1,Switzerland,Switzerland,330,1
+validation,46,1,4,115,0,0,0,113,1,1.5,2,1,Switzerland,Switzerland,356,1
+validation,47,1,4,160,0,0,0,124,1,0.0,2,1,Switzerland,Switzerland,361,1
+validation,61,1,4,150,0,0,0,117,1,2.0,2,1,Switzerland,Switzerland,366,1
+validation,70,1,4,140,0,1,0,157,1,2.0,2,1,Switzerland,Switzerland,378,1
+validation,54,1,4,120,0,0,0,155,0,0.0,2,1,Switzerland,Switzerland,384,1
+validation,38,1,4,135,0,1,0,150,0,0.0,2,1,Switzerland,Switzerland,395,1
+validation,35,1,4,120,0,1,0,130,1,1.2,2,1,Switzerland,Switzerland,405,1
+validation,57,1,4,140,0,1,0,100,1,0.0,2,1,Switzerland,Switzerland,406,1
+validation,62,1,4,150,0,1,1,78,0,2.0,2,1,Switzerland,Switzerland,410,1
+validation,56,1,4,125,0,1,0,103,1,1.0,2,1,Switzerland,Switzerland,412,1
+validation,56,1,3,125,0,1,0,98,0,-2.0,2,1,Switzerland,Switzerland,413,1
+validation,44,1,4,130,209,0,1,127,0,0.0,1,0,Long Beach VA,Long Beach VA,417,1
+validation,60,1,3,120,0,1,0,141,1,2.0,1,1,Long Beach VA,Long Beach VA,424,1
+validation,69,1,4,130,0,1,1,129,0,1.0,2,1,Long Beach VA,Long Beach VA,441,1
+validation,59,1,3,131,0,0,0,128,1,2.0,3,1,Long Beach VA,Long Beach VA,464,1
+validation,53,1,4,126,0,0,0,106,0,0.0,2,1,Long Beach VA,Long Beach VA,470,1
+validation,51,1,3,137,339,0,0,127,1,1.7,2,1,Long Beach VA,Long Beach VA,493,1
+validation,58,1,4,132,458,1,0,69,0,1.0,3,0,Long Beach VA,Long Beach VA,496,1
+validation,63,1,4,130,308,0,0,138,1,2.0,2,1,Long Beach VA,Long Beach VA,501,1
+validation,51,1,4,132,227,1,1,138,0,0.2,1,0,Long Beach VA,Long Beach VA,503,1
+validation,68,1,3,150,195,1,0,132,0,0.0,0,1,Long Beach VA,Long Beach VA,516,1
+validation,48,1,3,102,0,1,1,110,1,1.0,3,1,Long Beach VA,Long Beach VA,518,1
+validation,63,1,4,110,252,0,1,140,1,2.0,2,1,Long Beach VA,Long Beach VA,533,1
+validation,54,1,4,130,202,1,0,112,1,2.0,2,1,Long Beach VA,Long Beach VA,538,1
+validation,70,1,4,170,192,0,1,129,1,3.0,3,1,Long Beach VA,Long Beach VA,543,1
+validation,66,1,4,112,261,0,0,140,0,1.5,1,1,Long Beach VA,Long Beach VA,548,1
+validation,38,1,4,110,289,0,0,105,1,1.5,3,1,Long Beach VA,Long Beach VA,568,1
+validation,64,1,4,141,244,1,1,116,1,1.5,2,1,Long Beach VA,Long Beach VA,584,1
+validation,63,1,2,136,165,0,1,133,0,0.2,1,0,Long Beach VA,Long Beach VA,590,1
+validation,55,1,3,133,185,0,1,136,0,0.2,1,0,Long Beach VA,Long Beach VA,597,1
+validation,57,1,4,130,207,0,1,96,1,1.0,2,0,Long Beach VA,Long Beach VA,600,1
+validation,58,1,4,140,385,1,2,135,0,0.3,1,0,Long Beach VA,Long Beach VA,613,1
+validation,67,1,4,120,229,0,2,129,1,2.6,2,1,Statlog,Cleveland,635,2
+validation,47,1,4,112,204,0,0,143,0,0.1,1,0,Statlog,Cleveland,638,2
+validation,44,1,3,120,226,0,0,169,0,0.0,1,0,Statlog,Cleveland,677,2
+validation,60,0,1,150,240,0,0,171,0,0.9,1,0,Statlog,Cleveland,678,2
+validation,39,0,3,94,199,0,0,179,0,0.0,1,0,Statlog,Cleveland,692,2
+validation,58,1,4,150,270,0,2,111,1,0.8,1,1,Statlog,Cleveland,697,2
+validation,41,0,2,126,306,0,0,163,0,0.0,1,0,Statlog,Cleveland,703,2
+validation,61,0,4,130,330,0,2,169,0,0.0,1,1,Statlog,Cleveland,706,2
+validation,52,1,4,125,212,0,0,168,0,1.0,1,1,Statlog,Cleveland,709,2
+validation,58,1,4,100,234,0,0,156,0,0.1,1,1,Statlog,Cleveland,712,2
+validation,60,0,4,158,305,0,2,161,0,0.0,1,1,Statlog,Cleveland,727,2
+validation,49,1,3,120,188,0,0,139,0,2.0,2,1,Statlog,Cleveland,735,2
+validation,62,1,4,120,267,0,0,99,1,1.8,2,1,Statlog,Cleveland,741,2
+validation,66,1,4,112,212,0,2,132,1,0.1,1,1,Statlog,Cleveland,746,2
+validation,67,0,3,152,277,0,0,172,0,0.0,1,0,Statlog,Cleveland,751,2
+validation,50,0,3,120,219,0,0,158,0,1.6,2,0,Statlog,Cleveland,766,2
+validation,54,0,3,108,267,0,2,167,0,0.0,1,0,Statlog,Cleveland,767,2
+validation,46,0,2,105,204,0,0,172,0,0.0,1,0,Statlog,Cleveland,770,2
+validation,55,1,2,130,262,0,0,155,0,0.0,1,0,Statlog,Cleveland,777,2
+validation,58,1,4,128,259,0,2,130,1,3.0,2,1,Statlog,Cleveland,778,2
+validation,64,0,4,180,325,0,0,154,1,0.0,1,0,Statlog,Cleveland,780,2
+validation,35,1,4,126,282,0,2,156,1,0.0,1,1,Statlog,Cleveland,808,2
+validation,69,0,1,140,239,0,0,151,0,1.8,1,0,Statlog,Cleveland,813,2
+validation,64,1,3,125,309,0,0,131,1,1.8,2,1,Statlog,Cleveland,823,2
+validation,41,1,2,135,203,0,0,132,0,0.0,2,0,Statlog,Cleveland,840,2
+validation,58,0,1,150,283,1,2,162,0,1.0,1,0,Statlog,Cleveland,843,2
+validation,39,1,3,140,321,0,2,182,0,0.0,1,0,Statlog,Cleveland,856,2
+validation,60,1,4,130,253,0,0,144,1,1.4,1,1,Statlog,Cleveland,860,2
+validation,58,0,4,170,225,1,2,146,1,2.8,2,1,Cleveland,Cleveland,901,1
+validation,59,1,4,164,176,1,2,90,0,1.0,2,1,Cleveland,Cleveland,911,1

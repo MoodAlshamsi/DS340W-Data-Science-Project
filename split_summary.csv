@@ -1,0 +1,4 @@
+dataset,file,unique patients,share of 918,target share,disease (1),no disease (0),disease prevalence,rows incl. exact copies (1190-row file),records shared with test,records shared with validation,identical feature vectors shared with test,identical feature vectors shared with validation,role,records shared with train,identical feature vectors shared with train
+train,train_642.csv,642,0.6993,0.7,355,287,0.553,836,0.0,0.0,0.0,0.0,"fitting, preprocessing, feature selection, balancing, tuning, calibration, cross-validation",,
+test,test_184.csv,184,0.2004,0.2,102,82,0.5543,234,,0.0,,0.0,development comparisons (no tuning on it),0.0,0.0
+validation,validation_92.csv,92,0.1002,0.1,51,41,0.5543,120,0.0,,0.0,,"sealed; evaluated once, only when FINAL_VALIDATION_AUTHORIZED = True",0.0,0.0
